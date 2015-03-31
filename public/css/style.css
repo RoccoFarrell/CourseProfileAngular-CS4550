@@ -1,0 +1,25 @@
+﻿body {
+}
+
+main {
+    padding-top: 50px;
+}
+
+#h1level1{
+    font-size: 36pt;
+    border-bottom: 1px lightgrey solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+
+#h1level2{
+    font-size: 30pt;
+}
+
+.field-label, .field{
+    float: left;
+}
+.field-group{
+    clear: both;
+}
