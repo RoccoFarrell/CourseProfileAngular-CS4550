@@ -4,6 +4,6 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "express": "~4.10.3",
-    "mongoose": "~3.8.19",
+    "mongoose": "~3.8.19"
   }
 }
